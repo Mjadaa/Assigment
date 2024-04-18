@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assigment</string>
+    <string name="Password">Enter Your Password</string>
+    <string name="LogName">Enter Your Name</string>
+    <string name="ChkBox">Remember me</string>
+    <string name="login">Login</string>
+    <string name="a_10_volts">A) 10 volts</string>
+    <string name="VoltageQuestion">What is the voltage across a resistor with a resistance of 5 ohms if a current of 2 amperes flows through it?</string>
+    <string name="b_2_5_volts">B) 2.5 volts</string>
+    <string name="c_7_5_n">C) 7.5 volts</string>
+    <string name="d_3_n">D) 3 volts</string>
+    <string name="ForceQuestoin">What is the force required to accelerate a 5 kg object at a rate of 2 m/s²?</string>
+    <string name="MomentumQuestion">A tennis ball with a mass of 0.1 kg is moving at a velocity of 10 m/s. What is its momentum?</string>
+    <string name="WelcomeMessage">Welcome to the Physics App! We are excited to have you join our community of learners. This app is designed to help you learn physics in a fun and engaging way.</string>
+    <string name="SelectfromList">Choose what Lesson You Need!</string>
+    <string name="MoumentDef">Momentum is a physical quantity that represents the amount of force acting on an object multiplied by the time for which it acts. It is measured in units of kilogram meters per second (kg m/s).</string>
+    <string name="momountExample">Sample Example: \"If a motorcycle with a mass of 150 kilograms is traveling at a velocity of 20 meters per second, depands on Law M=150 and v = 20 , so m*v = 150*20 = 3000</string>
+</resources>
